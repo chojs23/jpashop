@@ -33,6 +33,7 @@ public class OrderSimpleApiController {
 
 
     private final OrderSimpleQueryRepository orderSimpleQueryRepository; //의존관계주입
+
 /**
  * V4. JPA에서 DTO로 바로 조회
  * - 쿼리 1번 호출
